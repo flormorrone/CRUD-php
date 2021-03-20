@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-include("cnxsql.php");
+include("DataBase/cnxsql.php");
 include("php_code.php");
 $update=false;
 

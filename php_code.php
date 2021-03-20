@@ -1,6 +1,6 @@
 
 <?php 
-include("cnxsql.php");
+include("DataBase/cnxsql.php");
 $id="";
 $nombre = "";
 $tel = "";
